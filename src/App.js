@@ -16,7 +16,7 @@ function App() {
     padding: "10px",
     width: "100%",
     height: "100%",
-    overflowX: "hidden",
+    overflowX: "auto",
     display: "flex",
     justifyContent: "centre"
   };

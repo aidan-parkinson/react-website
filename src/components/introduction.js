@@ -29,7 +29,7 @@ class Introduction extends Component {
         <br/><br/>
         I am a Licensed Teacher, with a PhD from the University of Cambridge, am a Chartered Engineer and a Member of CIBSE.
         <br/><br/>
-        I am Director of a micro-startup REALFEED Ltd. which publishes web insight.
+        I am Director of REALFEED, a micro-sized business that publishes web insight.
         <br/><br/>
         I volunteer as referee for six scientific journals published by Elsevier.
         </p>
