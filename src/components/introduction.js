@@ -27,7 +27,7 @@ class Introduction extends Component {
         <p style={parStyle}>
         I am a Senior Engineer working in Arup Building Performance and Systems, London. I have experience providing assurance in building performance and digital projects for real estate organisations. I have previously held positions as a developer of Executive Education in Internet-of-Things for the University of Cambridge and as a Skills Manager for the Building Performance and Systems discipline globally across Arup.
         <br/><br/>
-        I am a Licensed Teacher, with a PhD from the University of Cambridge, am a Chartered Engineer and a Member of CIBSE.
+        I am a Licensed Teacher, with a PhD from the University of Cambridge, a Chartered Engineer and a Member of CIBSE.
         <br/><br/>
         I am Director of REALFEED, a micro-sized business that publishes web insight.
         <br/><br/>
