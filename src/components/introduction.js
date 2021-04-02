@@ -29,13 +29,16 @@ class Introduction extends Component {
         <br/><br/>
         I am a Licensed Teacher, with a PhD from the University of Cambridge, am a Chartered Engineer and a Member of CIBSE.
         <br/><br/>
-        I am Director of a micro-startup REALFEED Ltd. which publishes web insight.
+        I am Director of REALFEED, a micro-sized business that publishes web insight.
         <br/><br/>
         I volunteer as referee for six scientific journals published by Elsevier.
         </p>
         <ul>
           <li class="nav-item">
             <a href="/professional-cv.pdf" class="nav-link">Professional CV</a>
+          </li>
+          <li class="nav-item">
+            <a href="https://arup.com" class="nav-link">Ove Arup and Partners</a>
           </li>
         </ul>
       </div>
