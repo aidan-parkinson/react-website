@@ -37,6 +37,9 @@ class Introduction extends Component {
           <li class="nav-item">
             <a href="/professional-cv.pdf" class="nav-link">Professional CV</a>
           </li>
+          <li class="nav-item">
+            <a href="https://arup.com" class="nav-link">Ove Arup and Partners</a>
+          </li>
         </ul>
       </div>
     );
