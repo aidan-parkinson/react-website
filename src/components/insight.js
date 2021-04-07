@@ -29,22 +29,25 @@ class Insight extends Component {
         </p>
         <ul>
           <li class="nav-item">
-            <a href="https://www.tandfonline.com/doi/abs/10.1080/09613218.2017.1314148?journalCode=rbri20" class="nav-link">Evaluating positivist theories of occupant satisfaction: a statistical analysis</a>
+            <a href="https://www.tandfonline.com/doi/abs/10.1080/09613218.2017.1314148?journalCode=rbri20" class="nav-link">Evaluating positivist theories of occupant satisfaction: a statistical analysis, 2017</a>
           </li>
           <li class="nav-item">
-            <a href="https://www.sciencedirect.com/science/article/abs/pii/S0360544216302638" class="nav-link">An income-based analysis of the value premise for property energy performance</a>
+            <a href="https://www.sciencedirect.com/science/article/abs/pii/S0360544216302638" class="nav-link">An income-based analysis of the value premise for property energy performance, 2016</a>
           </li>
           <li class="nav-item">
-            <a href="https://www.repository.cam.ac.uk/handle/1810/261155" class="nav-link">An exploration of building energy performance and financial value with demonstration on UK offices</a>
+            <a href="https://www.repository.cam.ac.uk/handle/1810/261155" class="nav-link">An exploration of building energy performance and financial value with demonstration on UK offices, 2016</a>
           </li>
           <li class="nav-item">
-            <a href="https://www.sciencedirect.com/science/article/pii/S0301421513006861" class="nav-link">Energy performance certification as a signal of workplace quality</a>
+            <a href="https://www.sciencedirect.com/science/article/pii/S0306261914007570?via%3Dihub" class="nav-link">Evaluating the energy performance of buildings within a value at risk framework with demonstration on UK offices, 2014</a>
           </li>
           <li class="nav-item">
-            <a href="https://www.tandfonline.com/doi/abs/10.1080/09613218.2012.690956" class="nav-link">Exploring scenarios for the future of energy management in UK property</a>
+            <a href="https://www.sciencedirect.com/science/article/pii/S0301421513006861" class="nav-link">Energy performance certification as a signal of workplace quality, 2013</a>
           </li>
           <li class="nav-item">
-            <a href="https://link.springer.com/chapter/10.1007/978-3-642-27509-8_7" class="nav-link">Market Responses to the Sustainability and Energy Performance of Commercial Property</a>
+            <a href="https://www.tandfonline.com/doi/abs/10.1080/09613218.2012.690956" class="nav-link">Exploring scenarios for the future of energy management in UK property, 2012</a>
+          </li>
+          <li class="nav-item">
+            <a href="https://link.springer.com/chapter/10.1007/978-3-642-27509-8_7" class="nav-link">Market Responses to the Sustainability and Energy Performance of Commercial Property, 2012</a>
           </li>
         </ul>
         <p style={parStyle}>Scientific refereeing</p>
