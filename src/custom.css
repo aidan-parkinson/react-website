@@ -1,8 +1,138 @@
+.app-container = {
+  width: 100% !important;
+  height: 100% !important;
+  overflow-x: auto !important;
+  display: flex !important;
+  margin: auto !important;
+}
+
+.content-container {
+  text-align: center !important;
+  margin: auto !important;
+}
+
+.nav-link-1 {
+  background-color: Tomato !important;
+  color: White !important;
+}
+
+.nav-link-2 {
+  background-color: MediumSeaGreen !important;
+  color: White !important;
+}
+
+.nav-link-3 {
+  background-color: DodgerBlue !important;
+  color: White !important;
+}
+
 .nav-link {
-  padding:5px 20px 5px 20px !important;
+  color: inherit !important;
+  text-align: justify !important;
+  font-size: 1.2rem !important;
 }
 
 .nav-item {
   padding:5px 5px 5px 5px !important;
-  font-size: 0.9rem !important;
+  font-size: 1.2rem !important;
+  color: inherit;
+  float: none;
+  display: inline-block;
+  text-align: center !important;
+}
+
+.navbar-nav,
+.navbar-expand {
+flex: 1;
+margin: 20px !important;
+display: flex;
+justify-content: space-between;
+display: inline-block;
+}
+
+
+.navbar-brand {
+  color: black !important;
+  font-size: 1.5rem !important;
+}
+
+.red-container {
+  border-color: Tomato !important;
+  border-style: solid !important;
+  border-width: medium !important;
+  align-items: center !important;
+  padding: 10px !important;
+  text-align: center !important;
+  width: 450px;
+}
+
+.blue-container {
+  border: DodgerBlue !important;
+  border-style: solid !important;
+  border-width: medium !important;
+  align-items: center !important;
+  padding: 10px !important;
+  text-align: center !important;
+  width:420px !important;
+}
+
+.green-container {
+  border: MediumSeaGreen !important;
+  border-style: solid !important;
+  border-width: medium !important;
+  align-items: center !important;
+  text-align: center !important;
+  padding: 10px !important;
+  width: 450px;
+}
+
+.orange-container {
+  border: Orange !important;
+  border-style: solid !important;
+  border-width: medium !important;
+  align-items: center !important;
+  text-align: center !important;
+  padding: 10px !important;
+  width: 507px !important;
+}
+
+.gray-container {
+  border: Gray !important;
+  border-style: solid !important;
+  border-width: medium !important;
+  align-items: center !important;
+  padding: 10px !important;
+  min-width: 507px !important;
+  margin: 10px !important;
+  text-align: center !important;
+}
+
+.green-insight {
+  color: MediumSeaGreen !important;
+  border: MediumSeaGreen !important;
+  border-style: solid !important;
+  border-width: medium !important;
+  align-items: center !important;
+  padding: 10px !important;
+  min-width: 507px !important;
+  margin: 10px !important;
+  text-align: center !important;
+}
+
+.red-insight {
+  color: Tomato !important;
+  border: Tomato !important;
+  border-style: solid !important;
+  border-width: medium !important;
+  align-items: center !important;
+  padding: 10px !important;
+  min-width: 507px !important;
+  margin: 10px !important;
+  text-align: center !important;
+}
+
+.img {
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
