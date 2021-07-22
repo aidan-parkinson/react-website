@@ -82,7 +82,7 @@ display: inline-block;
   border-width: medium !important;
   align-items: center !important;
   text-align: center !important;
-  width: 450px;
+  width: 430px;
 }
 
 .orange-container {
@@ -97,6 +97,17 @@ display: inline-block;
 
 .gray-container {
   border: Gray !important;
+  border-style: solid !important;
+  border-width: medium !important;
+  align-items: center !important;
+  padding: 10px !important;
+  margin: 10px !important;
+  text-align: center !important;
+}
+
+.blue-insight {
+  color: DodgerBlue !important;
+  border: DodgerBlue !important;
   border-style: solid !important;
   border-width: medium !important;
   align-items: center !important;

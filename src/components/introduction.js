@@ -39,7 +39,7 @@ class Introduction extends Component {
       <div>
         <div class="gray-container">
           <p style={introStyle}>
-            I am a Senior Engineer working in Arup Building Performance and Systems, London. I have experience providing assurance in building performance and digital projects for real estate organisations. I have previously held positions as a developer of Executive Education in Internet-of-Things for the University of Cambridge and as a Skills Manager for the Building Performance and Systems discipline globally across Arup.
+            I am a Senior Engineer working in Arup Building Performance and Systems, London. I have experience in assuring building performance and digital projects for real estate organisations. I have previously developed Executive Education in Internet-of-Things for the University of Cambridge and worked as a Skills Manager for the Building Performance and Systems discipline globally across Arup.<br></br><br></br> I am a Member of the Chartered Institute of Building Services Engineers, a Member of the Royal Economic Society and a Member of Wolfson College, Cambridge.
           </p>
         </div>
         <Row style={rowStyle}>
