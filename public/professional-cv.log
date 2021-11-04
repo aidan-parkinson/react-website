@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.14)  3 NOV 2021 12:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.14)  4 NOV 2021 14:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -314,7 +314,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 Here is how much of TeX's memory you used:
  4300 strings out of 480608
  62029 string characters out of 5903630
- 320040 words of memory out of 5000000
+ 320037 words of memory out of 5000000
  20171 multiletter control sequences out of 15000+600000
  536091 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -328,7 +328,7 @@ ic/amsfonts/cm/cmr17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmti10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmtt10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/c
 m-super/sfrm1000.pfb>
-Output written on professional-cv.pdf (3 pages, 118139 bytes).
+Output written on professional-cv.pdf (3 pages, 118104 bytes).
 PDF statistics:
  43 PDF objects out of 1000 (max. 8388607)
  30 compressed objects within 1 object stream
