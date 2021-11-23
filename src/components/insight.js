@@ -22,15 +22,15 @@ class Insight extends Component {
       <div>
         <div class="green-insight">
           <p><font color="MediumSeaGreen" size="1.2rem">
-            SCIENTIFIC PUBLICATIONS
+            PUBLICATIONS
             </font>
           </p>
           <ul>
             <li class="nav-item">
-              <a href="https://www.tandfonline.com/doi/abs/10.1080/09613218.2017.1314148?journalCode=rbri20"><font color="MediumSeaGreen" size="1.2rem">Parkinson A.T., Reid R., McKerrow H., Wright D. (2017) Evaluating positivist theories of occupant satisfaction: a statistical analysis, Building Research and Information, 46(7):1-14</font></a>
+              <a href="https://www.researchgate.net/publication/356470480_Social_Costs_of_Carbon_Perspective_on_the_Present_State_of_Affairs"><font color="MediumSeaGreen" size="1.2rem">Parkinson A.T. (2021) Social Costs of Carbon: Perspective on the Present State of Affairs, Realfeed Ltd.</font></a>
             </li>
             <li class="nav-item">
-              <a href="https://www.sciencedirect.com/science/article/abs/pii/S0360544216302638"><font color="MediumSeaGreen" size="1.2rem">Parkinson A.T., Hill S., Wheal R. (2016) An income-based analysis of the value premise for property energy performance, Energy, 106:162-169</font></a>
+              <a href="https://www.researchgate.net/publication/341056033_An_Executive_Function_for_Stability"><font color="MediumSeaGreen" size="1.2rem">Parkinson A.T. (2020) An Executive Function for Stability</font></a>
             </li>
             <li class="nav-item">
               <a href="https://www.repository.cam.ac.uk/handle/1810/261155"><font color="MediumSeaGreen" size="1.2rem">Parkinson A.T. (2016) An exploration of building energy performance and financial value with demonstration on UK offices, PhD Thesis: Wolfson College, University of Cambridge</font></a>
