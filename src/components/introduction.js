@@ -42,7 +42,7 @@ class Introduction extends Component {
             I am a Senior Engineer working in Arup Building Performance and Systems, London. I have experience in the design and assurance of building performance and digital projects for real estate organisations. I have previously developed Executive Education in Internet-of-Things for the University of Cambridge and worked as a Skills Manager for the Building Performance and Systems discipline globally across Arup.
             <br></br>
             <br></br>
-            I am a Member of the Chartered Institute of Building Services Engineers, a Member of the Royal Economic Society and a Member of Wolfson College, Cambridge.
+            I am a Member of the Chartered Institute of Building Services Engineers, Royal Economic Society and Wolfson College, Cambridge. Fellow of the m-i-t.
           </p>
         </div>
         <Row style={rowStyle}>

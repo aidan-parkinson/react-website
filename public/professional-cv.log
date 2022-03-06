@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.14)  4 NOV 2021 14:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.14)  6 MAR 2022 09:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -285,14 +285,14 @@ Overfull \hbox (3.08603pt too wide) in paragraph at lines 51--61
  []
 
 
-Overfull \hbox (3.08603pt too wide) in paragraph at lines 71--82
+Overfull \hbox (3.08603pt too wide) in paragraph at lines 71--83
  [] 
  []
 
 [1
 
 {/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (3.08603pt too wide) in paragraph at lines 93--108
+Overfull \hbox (3.08603pt too wide) in paragraph at lines 94--109
  [] 
  []
 
@@ -300,12 +300,12 @@ Overfull \hbox (3.08603pt too wide) in paragraph at lines 93--108
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (3.08603pt too wide) in paragraph at lines 121--147
+Overfull \hbox (3.08603pt too wide) in paragraph at lines 122--148
  [] 
  []
 
 
-LaTeX Warning: Float too large for page by 0.96431pt on input line 149.
+LaTeX Warning: Float too large for page by 0.96431pt on input line 150.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -328,7 +328,7 @@ ic/amsfonts/cm/cmr17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmti10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmtt10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/c
 m-super/sfrm1000.pfb>
-Output written on professional-cv.pdf (3 pages, 118104 bytes).
+Output written on professional-cv.pdf (3 pages, 117597 bytes).
 PDF statistics:
  43 PDF objects out of 1000 (max. 8388607)
  30 compressed objects within 1 object stream
