@@ -1,4 +1,4 @@
-.app-container = {
+.app-container {
   width: 100% !important;
   height: 100% !important;
   overflow-x: auto !important;
@@ -23,6 +23,11 @@
 
 .nav-link-3 {
   background-color: DodgerBlue !important;
+  color: White !important;
+}
+
+.nav-link-4 {
+  background-color: orange !important;
   color: White !important;
 }
 
@@ -144,4 +149,14 @@ display: inline-block;
   display: block !important;
   margin-left: auto !important;
   margin-right: auto !important;
+}
+
+.blue-chart {
+  border: DodgerBlue !important;
+  border-style: solid !important;
+  border-width: medium !important;
+  align-items: center !important;
+  padding: 10px !important;
+  text-align: center !important;
+  max-width:1000px !important;
 }

@@ -1,9 +1,9 @@
 // Introduction.js
 
-import React, { Component } from 'react'
-import Row from 'react-bootstrap/Row'
-import Col from 'react-bootstrap/Col'
-import { Timeline } from 'react-twitter-widgets'
+import React, { Component } from 'react';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
+import { Timeline } from 'react-twitter-widgets';
 
 const rowStyle = {
   margin: "auto",
