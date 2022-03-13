@@ -1,9 +1,7 @@
 // Visualisation.js
 
-import React, { Component } from 'react'
-import Row from 'react-bootstrap/Row'
-import Col from 'react-bootstrap/Col'
-import Plotly from 'react-plotly.js'
+import React, { Component } from 'react';
+import Plotly from 'react-plotly.js';
 
 const rowStyle = {
   margin: "auto",
@@ -49,11 +47,13 @@ var trace4 = {
     name: '2020'
 };
 
-var data = [trace1, trace2, trace3, trace4];
+var chartData = [trace1, trace2, trace3, trace4];
 
-var layout = {
+var chartLayout = {
     title: 'Common Social Cost of Carbon / $tC'
 };
+
+var chart = Plotly.newPlot('SCC', data, layout);
 
 
 class Visualisation extends Component {
@@ -69,7 +69,10 @@ class Visualisation extends Component {
           </p>
         </div>
         <div class="blue-container">
-            Plotly.newPlot('SCC', data, layout);
+            <Plotly
+                data = {chartData}
+                layout = {chartLayout}
+            />
         </div>
       </div>
     );
