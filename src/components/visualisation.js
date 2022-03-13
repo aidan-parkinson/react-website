@@ -44,7 +44,7 @@ var trace4 = {
 var chartData = [trace1, trace2, trace3, trace4];
 
 var chartLayout = {
-    title: 'Common Social Cost of Carbon / $tC'
+    title: 'Common Social Cost of Carbon in 2019 US Dollars / $tC'
 };
 
 // var chart = Plotly.newPlot('SCC', data, layout); //
