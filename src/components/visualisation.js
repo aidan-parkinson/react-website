@@ -53,7 +53,7 @@ var chartLayout = {
     title: 'Common Social Cost of Carbon / $tC'
 };
 
-var chart = Plotly.newPlot('SCC', data, layout);
+// var chart = Plotly.newPlot('SCC', data, layout); //
 
 
 class Visualisation extends Component {
