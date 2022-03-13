@@ -1,4 +1,4 @@
-.app-container = {
+.app-container {
   width: 100% !important;
   height: 100% !important;
   overflow-x: auto !important;
@@ -23,6 +23,11 @@
 
 .nav-link-3 {
   background-color: DodgerBlue !important;
+  color: White !important;
+}
+
+.nav-link-4 {
+  background-color: orange !important;
   color: White !important;
 }
 
