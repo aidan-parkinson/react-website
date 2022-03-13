@@ -150,3 +150,13 @@ display: inline-block;
   margin-left: auto !important;
   margin-right: auto !important;
 }
+
+.blue-chart {
+  border: DodgerBlue !important;
+  border-style: solid !important;
+  border-width: medium !important;
+  align-items: center !important;
+  padding: 10px !important;
+  text-align: center !important;
+  max-width:1000px !important;
+}

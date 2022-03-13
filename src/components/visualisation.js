@@ -2,18 +2,7 @@
 
 import React, { Component } from 'react';
 import Plotly from 'react-plotly.js';
-
-const rowStyle = {
-  margin: "auto",
-  textAlign: "center"
-};
-
-const parStyle = {
-  margin: "auto",
-  maxWidth: "510px",
-  padding: "10px",
-  textAlign: "center"
-};
+import Col from 'react-bootstrap/Col';
 
 const introStyle = {
   color: "#2d2d2d",
@@ -21,7 +10,12 @@ const introStyle = {
   fontSize: "1.2rem",
   maxWidth: "1000px",
   padding: '10px'
-}
+};
+
+const rowStyle = {
+  margin: "auto",
+  textAlign: "center"
+};
 
 var trace1 = {
     x: [316, 372, 428],
@@ -65,15 +59,17 @@ class Visualisation extends Component {
             The Common Social Cost of Carbon may be a genuine performance indicator for the quality of life on Earth.
             <br></br>
             <br></br>
-            The indicator helps global society reflect on its interface with what is wild and how far we are away from a Utopia of fulfilled promises free of necessary state coercion.
+            The indicator helps global society reflect on civilisations interface with the wild and distance from a Utopia of fulfilled promises free of necessary state coercion.
           </p>
         </div>
-        <div class="blue-container">
+        <Col style={rowStyle}>
+          <div class="blue-chart">
             <Plotly
                 data = {chartData}
                 layout = {chartLayout}
             />
-        </div>
+          </div>
+        </Col>
       </div>
     );
   }
