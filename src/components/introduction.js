@@ -39,7 +39,10 @@ class Introduction extends Component {
       <div>
         <div class="gray-container">
           <p style={introStyle}>
-            I am a Senior Engineer working in Arup Building Performance and Systems, London. I have experience in the design and assurance of building performance and digital projects for real estate organisations. I have previously developed Executive Education in Internet-of-Things for the University of Cambridge and worked as a Skills Manager for the Building Performance and Systems discipline globally across Arup.
+            I am a Senior Engineer working in Arup Building Performance and Systems, London. I have experience in the design and assurance of building performance and digital projects for real estate organisations. This includes the design, commissioning and witnessing of the systems and controls logic of complex projects. I also develop and maintain software tools for professional on-site performance evaluations and contribute to priority policy agenda.
+            <br></br>
+            <br></br>
+            I have previously developed Executive Education in Internet-of-Things for the University of Cambridge and worked as a Skills Manager for the Building Performance and Systems discipline globally across Arup.
             <br></br>
             <br></br>
             I am a Member of the Chartered Institute of Building Services Engineers, Royal Economic Society and Wolfson College, Cambridge. Fellow of the m-i-t.
