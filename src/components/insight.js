@@ -86,6 +86,9 @@ class Insight extends Component {
               </p>
               <ul>
                 <li class="nav-item">
+                  <a href="https://aidanparkinson.medium.com/how-much-assurance-of-private-activities-might-be-considered-publicly-acceptable-168e1408cf76"><font color="DodgerBlue" size="1.2rem">How Much Assurance of Private Activities Might be Considered Publicly Acceptable? (2022)</font></a>
+                </li>
+                <li class="nav-item">
                   <a href="https://aidanparkinson.medium.com/crises-need-immediate-common-sense-not-distant-promises-c5fffb809217"><font color="DodgerBlue" size="1.2rem">Crises Need Immediate Common Sense, Not Distant Promises (2021)</font></a>
                 </li>
               </ul>
