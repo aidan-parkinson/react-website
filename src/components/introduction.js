@@ -45,7 +45,7 @@ class Introduction extends Component {
             I have previously developed Executive Education in Internet-of-Things for the University of Cambridge and worked as a Skills Manager for the Building Performance and Systems discipline globally across Arup.
             <br></br>
             <br></br>
-            I am a Member of the Chartered Institute of Building Services Engineers, Royal Economic Society and Wolfson College, Cambridge. Fellow of the m-i-t.
+            I am a Member of the Chartered Institute of Building Services Engineers, Royal Economic Society and Wolfson College, Cambridge.
           </p>
         </div>
         <Row style={rowStyle}>

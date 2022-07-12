@@ -20,7 +20,7 @@ function App() {
           <div>
             <nav class="navbar navbar-expand-lg flex-column align-items-stretch">
               <div class="d-flex">
-                  <a href="#" class="navbar-brand mx-sm-auto mr-auto">Aidan Thomas Parkinson BEng(Hons) MSc PhD CEng</a>
+                  <a href="https://aidanparkinson.xyz" class="navbar-brand mx-sm-auto mr-auto">Aidan Thomas Parkinson BEng(Hons) MSc PhD CEng</a>
               </div>
               <ul className="navbar-nav">
                 <li class="nav-item">
