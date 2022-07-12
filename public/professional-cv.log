@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.14)  22 JUN 2022 14:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.14)  12 JUL 2022 10:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -285,30 +285,30 @@ Overfull \hbox (3.08603pt too wide) in paragraph at lines 51--61
  []
 
 
-Overfull \hbox (3.08603pt too wide) in paragraph at lines 71--83
+Overfull \hbox (3.08603pt too wide) in paragraph at lines 71--82
  [] 
  []
 
 [1
 
 {/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (3.08603pt too wide) in paragraph at lines 94--111
+Overfull \hbox (3.08603pt too wide) in paragraph at lines 93--110
  [] 
  []
 
 
-LaTeX Warning: Float too large for page by 15.19067pt on input line 113.
+LaTeX Warning: Float too large for page by 15.19067pt on input line 112.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (3.08603pt too wide) in paragraph at lines 124--150
+Overfull \hbox (3.08603pt too wide) in paragraph at lines 123--149
  [] 
  []
 
 
-LaTeX Warning: Float too large for page by 0.96431pt on input line 152.
+LaTeX Warning: Float too large for page by 0.96431pt on input line 151.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -317,7 +317,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 Here is how much of TeX's memory you used:
  4300 strings out of 480608
  62029 string characters out of 5903630
- 321037 words of memory out of 5000000
+ 320037 words of memory out of 5000000
  20171 multiletter control sequences out of 15000+600000
  536091 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -331,7 +331,7 @@ ic/amsfonts/cm/cmr17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmti10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmtt10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/c
 m-super/sfrm1000.pfb>
-Output written on professional-cv.pdf (3 pages, 117455 bytes).
+Output written on professional-cv.pdf (3 pages, 117531 bytes).
 PDF statistics:
  43 PDF objects out of 1000 (max. 8388607)
  30 compressed objects within 1 object stream
