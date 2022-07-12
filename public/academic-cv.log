@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.14)  12 JUL 2022 10:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.14)  12 JUL 2022 09:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**professional-cv.tex
-(./professional-cv.tex
+**academic-cv.tex
+(./academic-cv.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-03-06>
 (/usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
@@ -187,8 +187,8 @@ File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count195
 \l__pdf_internal_box=\box48
 )
-(./professional-cv.aux)
-\openout1 = `professional-cv.aux'.
+No file academic-cv.aux.
+\openout1 = `academic-cv.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
 LaTeX Font Info:    ... okay on input line 25.
@@ -204,7 +204,6 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
 LaTeX Font Info:    ... okay on input line 25.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
 LaTeX Font Info:    ... okay on input line 25.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -292,46 +291,43 @@ Overfull \hbox (3.08603pt too wide) in paragraph at lines 71--82
 [1
 
 {/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (3.08603pt too wide) in paragraph at lines 93--110
+Overfull \hbox (3.08603pt too wide) in paragraph at lines 93--108
  [] 
  []
-
-
-LaTeX Warning: Float too large for page by 15.19067pt on input line 112.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (3.08603pt too wide) in paragraph at lines 123--149
+Overfull \hbox (3.08603pt too wide) in paragraph at lines 121--147
  [] 
  []
 
 
-LaTeX Warning: Float too large for page by 0.96431pt on input line 151.
+LaTeX Warning: Float too large for page by 0.96431pt on input line 149.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[2] [3] (./professional-cv.aux) ) 
+[2] [3] (./academic-cv.aux) ) 
 Here is how much of TeX's memory you used:
- 4300 strings out of 480608
- 62029 string characters out of 5903630
- 320037 words of memory out of 5000000
+ 4298 strings out of 480608
+ 61957 string characters out of 5903630
+ 320025 words of memory out of 5000000
  20171 multiletter control sequences out of 15000+600000
  536091 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,11n,42p,995b,459s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2020/texmf-dist/fonts/enc/
-dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmr17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmti10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmtt10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/c
-m-super/sfrm1000.pfb>
-Output written on professional-cv.pdf (3 pages, 117531 bytes).
+ 41i,11n,42p,991b,459s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvip
+s/cm-super/cm-super-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmti10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmtt10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-su
+per/sfrm1000.pfb>
+Output written on academic-cv.pdf (3 pages, 117313 bytes).
 PDF statistics:
  43 PDF objects out of 1000 (max. 8388607)
  30 compressed objects within 1 object stream
