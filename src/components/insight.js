@@ -26,6 +26,9 @@ class Insight extends Component {
             </font>
           </p>
           <ul>
+          <li class="nav-item">
+              <a href="https://www.researchgate.net/publication/361992922_Defining_Ecosystem_Boundaries_within_a_Stable_Diverse_and_Extensive_Alarm_Management_Platform"><font color="MediumSeaGreen" size="1.2rem">Parkinson A.T. (2022) Defining Ecosystem Boundaries within a Stable, Diverse and Extensive Alarm Management Platform, Realfeed Ltd.</font></a>
+            </li>
             <li class="nav-item">
               <a href="https://www.researchgate.net/publication/356470480_Social_Costs_of_Carbon_Perspective_on_the_Present_State_of_Affairs"><font color="MediumSeaGreen" size="1.2rem">Parkinson A.T. (2021) Social Costs of Carbon: Perspective on the Present State of Affairs, Realfeed Ltd.</font></a>
             </li>
