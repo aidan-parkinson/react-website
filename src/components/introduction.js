@@ -3,7 +3,6 @@
 import React, { Component } from 'react';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import { Timeline } from 'react-twitter-widgets';
 
 const rowStyle = {
   margin: "auto",
@@ -50,6 +49,16 @@ class Introduction extends Component {
         </div>
         <Row style={rowStyle}>
           <Col style={parStyle}>
+            <div class="orange-container">
+              <iframe width="480" height="270" src="https://www.youtube.com/embed/videoseries?list=PLBR5K7axx-AqYwx3uogOm9PvNB4yXP7OR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+          </Col>
+          <Col style={twitterStyle}>
+            <ul>
+              <div class="red-container">
+                <a href={`${process.env.PUBLIC_URL}/professional-cv.pdf`}><font color="Tomato" size="1.2rem">PROFESSIONAL CV</font></a>
+              </div>
+            </ul>
             <ul>
               <div class="blue-container">
                 <img src={`${process.env.PUBLIC_URL}/Ove_Arup.jpeg`} alt="Ove Arup"></img>
@@ -58,26 +67,6 @@ class Introduction extends Component {
                 <a href="https://arup.com"><font color="DodgerBlue" size="1.2rem">OVE ARUP AND PARTNERS INTERNATIONAL LTD.</font></a>
               </div>
             </ul>
-            <div class="orange-container">
-              <iframe width="480" height="270" src="https://www.youtube.com/embed/btxQAPmGOxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-          </Col>
-          <Col style={twitterStyle}>
-            <div class="red-container">
-              <a href={`${process.env.PUBLIC_URL}/professional-cv.pdf`}><font color="Tomato" size="1.2rem">PROFESSIONAL CV</font></a>
-            </div>
-            <br></br>
-            <div class = "green-container">
-              <Timeline
-                dataSource={{
-                  url: "https://twitter.com/aidanparkinson?ref_src=twsrc%5Etfw"
-                }}
-                options={{
-                  height: "530",
-                  width: "400"
-                }}
-              />
-            </div>
           </Col>
         </Row>
       </div>
