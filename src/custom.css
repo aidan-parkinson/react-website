@@ -87,7 +87,9 @@ display: inline-block;
   border-width: medium !important;
   align-items: center !important;
   text-align: center !important;
-  width: 430px;
+  padding: 10px !important;
+  text-align: center !important;
+  width:420px !important;
 }
 
 .orange-container {
