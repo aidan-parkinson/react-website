@@ -54,6 +54,14 @@ class Introduction extends Component {
             </div>
           </Col>
           <Col style={twitterStyle}>
+          <ul>
+              <div class="green-container">
+                <img src={`${process.env.PUBLIC_URL}/marathon.jpeg`} alt="Ove Arup"></img>
+                <br></br>
+                <br></br>
+                <a href="https://justgiving.com/aidan-parkinson/"><font color="DodgerBlue" size="1.2rem">Running the London Marathon 2023 to raise funds for Mind to fight discrimination.</font></a>
+              </div>
+            </ul>
             <ul>
               <div class="red-container">
                 <a href={`${process.env.PUBLIC_URL}/professional-cv.pdf`}><font color="Tomato" size="1.2rem">PROFESSIONAL CV</font></a>
