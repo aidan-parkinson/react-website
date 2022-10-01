@@ -66,7 +66,7 @@ class Introduction extends Component {
                 <img src={`${process.env.PUBLIC_URL}/marathon.jpeg`} alt="Marathon" width="320" height="180"></img>
                 <br></br>
                 <br></br>
-                <a href="https://justgiving.com/aidan-parkinson/"><font color="MediumSeaGreen" size="1.2rem">Running the London Marathon 2023 to raise funds for Mind to fight discrimination. Please give generously!</font></a>
+                <a href="https://justgiving.com/aidan-parkinson/"><font color="MediumSeaGreen" size="1.2rem">Running the London Marathon 2023 to raise funds for Mind to overcome discrimination. Please give generously!</font></a>
               </div>
             </ul>
             <ul>
